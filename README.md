@@ -9,6 +9,7 @@
 - [Problem Index](#problems)
 
   - [Print numbers from 1 to 10](./problem-1.js)
+  - [Print the odd numbers less than 100](./problem-2.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
