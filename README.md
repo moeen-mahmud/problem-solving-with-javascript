@@ -11,6 +11,7 @@
   - [Print numbers from 1 to 10](./problem-1.js)
   - [Print the odd numbers less than 100](./problem-2.js)
   - [Print the multiplication table with 7](./problem-3.js)
+  - [Print all the multiplication tables with numbers from 1 to 10](./proble-4.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
