@@ -8,7 +8,7 @@
 
 - [Problem Index](#problems)
 
-  - [Print numbers from 1 to 10](./problem-1.js)
+  1. [Print numbers from 1 to 10](./problem-1.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
