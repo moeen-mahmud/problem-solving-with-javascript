@@ -15,6 +15,7 @@
   - [Calculate the sum of numbers from 1 to 10](./problem-5.js)
   - [Calculate the factorial of 10](./problem-6.js)
   - [Calculate the sum of odd numbers greater than 10 and less than 30](./problem-7.js)
+  - [Calculate the sum of odd numbers greater than 10 and less than 30](./problem-8.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
