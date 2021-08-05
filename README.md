@@ -17,6 +17,7 @@
   - [Calculate the sum of odd numbers greater than 10 and less than 30](./problem-7.js)
   - [Create a function that will convert from Celsius to Fahrenheit](./problem-8.js)
   - [Create a function that will convert from Fahrenheit to Celsius](./problem-9.js)
+  - [Calculate the sum of numbers in an array of numbers](./problem-10.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
