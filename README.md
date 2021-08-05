@@ -14,6 +14,7 @@
   - [Print all the multiplication tables with numbers from 1 to 10](./proble-4.js)
   - [Calculate the sum of numbers from 1 to 10](./problem-5.js)
   - [Calculate the factorial of 10](./problem-6.js)
+  - [Calculate the sum of odd numbers greater than 10 and less than 30](./problem-7.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
@@ -22,7 +23,7 @@
 
 ### The Challenge
 
-Here I will showcase the code challenges that I solved while learning **JavaScript**. The challenges are relatively easy and beginner-friendly and will focus on creating an easy solution for each problem. The challenges are collected from various resources, but I will follow my own method for the answer.
+Here I will showcase the code challenges that I solved while learning **JavaScript**. The challenges are relatively easy and beginner-friendly and will focus on creating an easy solution for each problem. The challenges are collected from various resources, but I will follow my own method for the answer. The Problems are mainly curated from [Hackernoon](https://hackernoon.com/javascript-practical-coding-challenges-for-beginners-4bq3ugr?utm_source=pocket_mylist)
 
 ### Useful Resources
 
