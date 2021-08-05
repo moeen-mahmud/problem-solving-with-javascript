@@ -7,4 +7,4 @@ function toCelsius(temp) {
   return celsius;
 }
 
-console.log(toCelsius(89.6));
+console.log(toCelsius(90.6));
