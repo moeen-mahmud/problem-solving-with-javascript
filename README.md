@@ -20,6 +20,7 @@
   - [Calculate the sum of numbers in an array of numbers](./problem-10.js)
   - [Calculate the average of the numbers in an array of numbers](./problem-11.js)
   - [Create a function that receives an array of numbers and returns an array containing only the positive numbers](./problem-12.js)
+  - [Find the maximum number in an array of numbers](./problem-13.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
