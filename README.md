@@ -18,6 +18,7 @@
   - [Create a function that will convert from Celsius to Fahrenheit](./problem-8.js)
   - [Create a function that will convert from Fahrenheit to Celsius](./problem-9.js)
   - [Calculate the sum of numbers in an array of numbers](./problem-10.js)
+  - [Calculate the average of the numbers in an array of numbers](./problem-11.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
