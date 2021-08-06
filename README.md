@@ -22,6 +22,7 @@
   - [Create a function that receives an array of numbers and returns an array containing only the positive numbers](./problem-12.js)
   - [Find the maximum number in an array of numbers](./problem-13.js)
   - [Print the first 10 fibonacci numbers without recursion](./problem-14.js)
+  - [Create afunction that will find the nth Fibonacci number using recursion](./problem-15.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
