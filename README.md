@@ -31,6 +31,7 @@
   - [Rotate an array to the right 1 position](./problem-21.js)
   - [Reverse an array](./problem-22.js)
   - [Reverse a string](./problem-23.js)
+  - [Create a function that will merge two arrays and return the result as a new array](./problem-24.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
