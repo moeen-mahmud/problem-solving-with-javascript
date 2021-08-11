@@ -30,6 +30,7 @@
   - [Rotate an array to the left 1 position](./problem-20.js)
   - [Rotate an array to the right 1 position](./problem-21.js)
   - [Reverse an array](./problem-22.js)
+  - [Reverse a string](./problem-23.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
