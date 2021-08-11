@@ -32,6 +32,7 @@
   - [Reverse an array](./problem-22.js)
   - [Reverse a string](./problem-23.js)
   - [Create a function that will merge two arrays and return the result as a new array](./problem-24.js)
+  - [Create a function that will receive two arrays of numbers as arguments and return an array composed of all the numbers that are either in the first array or second array but not in both](./problem-25.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
