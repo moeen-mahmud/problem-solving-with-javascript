@@ -27,6 +27,7 @@
   - [Calculate the sum of digits of a positive integer number](./problem-17.js)
   - [Print the first 100 prime numbers](./problem-18.js)
   - [Create a function that will return in an array the first "nPrimes" prime numbers greater than a particular number "startAt"](./problem-19.js)
+  - [Rotate an array to the left 1 position](./problem-20.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
