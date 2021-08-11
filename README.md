@@ -28,6 +28,7 @@
   - [Print the first 100 prime numbers](./problem-18.js)
   - [Create a function that will return in an array the first "nPrimes" prime numbers greater than a particular number "startAt"](./problem-19.js)
   - [Rotate an array to the left 1 position](./problem-20.js)
+  - [Rotate an array to the right 1 position](./problem-21.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
