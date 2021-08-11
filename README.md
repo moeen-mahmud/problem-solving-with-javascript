@@ -25,6 +25,7 @@
   - [Create afunction that will find the nth Fibonacci number using recursion](./problem-15.js)
   - [Create a function that will return a Boolean specifying if a number is prime](./problem-16.js)
   - [Calculate the sum of digits of a positive integer number](./problem-17.js)
+  - [Print the first 100 prime numbers](./problem-18.js)
 
 - [Useful Resources](#useful-resources)
 - [Author](#author)
